@@ -1,0 +1,17 @@
+*   [33m69bd7a8[m[33m ([m[1;35mrefs/stash[m[33m)[m On main: Save IntelliJ configuration changes
+[31m|[m[32m\[m  
+[31m|[m * [33mcf240c8[m index on main: 7520a20 Merge pull request #1 from ArchanaRegu/feature/converted-into-springboot-project-changes
+[31m|[m[31m/[m  
+[31m|[m *   [33mb1c65f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #3 from ArchanaRegu/feature/2-post-resource-implementation-changes
+[31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m * [33mf119f63[m[33m ([m[1;31morigin/feature/2-post-resource-implementation-changes[m[33m, [m[1;32mfeature/2-post-resource-implementation-changes[m[33m)[m Post Resource Complete CRUD operation Implementation changes
+[31m|[m * [34m|[m [33m723abed[m Merge pull request #2 from ArchanaRegu/feature/2-post-resource-implementation-changes
+[31m|[m[31m/[m[34m|[m [34m|[m 
+[31m|[m [34m|[m[34m/[m  
+[31m|[m * [33m1a8ad95[m Post Entity CRUD Implementation
+[31m|[m[31m/[m  
+*   [33m7520a20[m Merge pull request #1 from ArchanaRegu/feature/converted-into-springboot-project-changes
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m17de952[m[33m ([m[1;31morigin/feature/converted-into-springboot-project-changes[m[33m, [m[1;32mfeature/converted-into-springboot-project-changes[m[33m)[m Converted into SpringBoot App with Initial Setup Files and Required Dependencies into Pom.xml
+[1;31m|[m[1;31m/[m  
+* [33m1e6ea9d[m first commit
