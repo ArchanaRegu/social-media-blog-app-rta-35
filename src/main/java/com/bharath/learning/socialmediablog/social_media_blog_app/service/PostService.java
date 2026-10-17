@@ -11,6 +11,7 @@ import java.util.List;
 public interface PostService {
     //    Get all the Post
     PostResponse getAllPosts(int pageNo,int pageSize);
+    PostResponse getAllPosts(int pageNo,int pageSize,String sortBy,String sortDirection);
     List<PostDto>fetchAllPost();
 //    Get Post By Id
     PostDto getPostById(long id);
