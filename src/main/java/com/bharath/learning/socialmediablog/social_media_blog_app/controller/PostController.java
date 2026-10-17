@@ -18,7 +18,7 @@ public class PostController {
     //Get all posts
     @GetMapping
     public List<PostDto>fetchAllPost(){
-        return this.postService.getAllPost();
+        return this.postService.fetchAllPost();
     }
     //Get post By id
     @GetMapping("/{id}")
